@@ -2,5 +2,6 @@
 ig.json
 tiktok.json
 node_modules
-app
+app/scripts
+app/index.js
 index_.js
